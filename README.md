@@ -1,2 +1,2 @@
 # CodingTest_SeungEon
-PYTHON
+Python3
