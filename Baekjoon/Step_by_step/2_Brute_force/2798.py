@@ -12,6 +12,7 @@ for s in a:
         result.append(sum(s))
 print(max(result))
 
+
 # 다른 사람의 풀이
 import sys
 input = sys.stdin.readline
