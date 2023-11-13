@@ -4,7 +4,7 @@
 # python으로는 시간초과를 피할 수 없음 => pypy3로 제출해야 통과됨
 
 # 같은 행, 열, 대각선에는 다른 퀸을 놓을 수 없음
-n = int(intput())
+n = int(input())
 
 ans = 0
 row = [0] * n
